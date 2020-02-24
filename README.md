@@ -1,5 +1,5 @@
-# SimpleApriori
-Blunt implementation that yields the result of the apriori algorithm.
+# SimpleARules
+blunt implementation of apriori-like association rules 
 
 ## Installation
 within julia package manager (Pkg)
