@@ -1,0 +1,9 @@
+name = "SimpleARules"
+uuid = "9885d4f0-5a6a-48fc-b231-dd90adf9906e"
+authors = ["Enrico Lohmann <enrico.lohmann@mercateo.com>"]
+version = "0.1.0"
+
+[deps]
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
